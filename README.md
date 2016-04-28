@@ -1,2 +1,2 @@
 # Algorithm
-image prosssing algorithm
+image processing algorithm
